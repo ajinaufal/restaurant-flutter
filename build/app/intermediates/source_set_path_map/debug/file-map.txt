@@ -1,0 +1,16 @@
+com.restaurant.app-jetified-window-java-1.0.0-beta04-0 /Users/ajinaufal/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.restaurant.app-core-1.6.0-1 /Users/ajinaufal/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.restaurant.app-jetified-annotation-experimental-1.1.0-2 /Users/ajinaufal/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.restaurant.app-jetified-window-1.0.0-beta04-3 /Users/ajinaufal/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.restaurant.app-jetified-startup-runtime-1.1.1-4 /Users/ajinaufal/.gradle/caches/transforms-3/ff5f5b0a71e9b3e49766bc82725fe9a1/transformed/jetified-startup-runtime-1.1.1/res
+com.restaurant.app-debug-5 /Users/ajinaufal/project/flutter/restaurant/android/app/src/debug/res
+com.restaurant.app-main-6 /Users/ajinaufal/project/flutter/restaurant/android/app/src/main/res
+com.restaurant.app-pngs-7 /Users/ajinaufal/project/flutter/restaurant/build/app/generated/res/pngs/debug
+com.restaurant.app-resValues-8 /Users/ajinaufal/project/flutter/restaurant/build/app/generated/res/resValues/debug
+com.restaurant.app-rs-9 /Users/ajinaufal/project/flutter/restaurant/build/app/generated/res/rs/debug
+com.restaurant.app-mergeDebugResources-10 /Users/ajinaufal/project/flutter/restaurant/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.restaurant.app-mergeDebugResources-11 /Users/ajinaufal/project/flutter/restaurant/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.restaurant.app-merged_res-12 /Users/ajinaufal/project/flutter/restaurant/build/app/intermediates/merged_res/debug
+com.restaurant.app-packaged_res-13 /Users/ajinaufal/project/flutter/restaurant/build/isar_flutter_libs/intermediates/packaged_res/debug
+com.restaurant.app-packaged_res-14 /Users/ajinaufal/project/flutter/restaurant/build/path_provider_android/intermediates/packaged_res/debug
+com.restaurant.app-packaged_res-15 /Users/ajinaufal/project/flutter/restaurant/build/sqflite/intermediates/packaged_res/debug
